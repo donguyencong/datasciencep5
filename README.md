@@ -1,4 +1,4 @@
-# datasciencep5
+# Regression model
 Machine learning
 
 You are to produce a family of regression models that predict the response of massive online social network (MOSN) users, further referred to as subjects, to anonymous grades given to their profile pictures.
